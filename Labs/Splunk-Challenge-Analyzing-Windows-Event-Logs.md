@@ -1,7 +1,8 @@
 # Splunk Challenge: Analyzing Windows Event Logs
 
 ## Desciption
-Splunk is one of the leading SIEM solutions in the market that provides the ability to collect, analyze and correlate the network and machine logs in real-time. In this lab, I will run through a scenario using Splunk to analyze Windows event logs and investigte a cyber attack.
+
+In this lab, I will run through a scenario using Splunk to analyze Windows event logs and investigte a cyber attack.
 
 ## Table of Contents
 
