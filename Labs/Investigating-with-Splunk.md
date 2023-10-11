@@ -29,7 +29,7 @@ To find the number of events logged in the index main I used the following searc
 
 The results showed that 12,256 events have been logged.
 
-<img src="https://github.com/emann615/Investigating-with-Splunk/assets/117882385/27826692-1a40-448d-ac44-0040e9d46433" height="50%" width="50%"/>
+<img src="https://github.com/emann615/Splunk-Labs-Investigating-Cyber-Attacks/edit/main/Labs/Investigating-with-Splunk.md/assets/117882385/27826692-1a40-448d-ac44-0040e9d46433" height="50%" width="50%"/>
 </br>
 </br>
 
